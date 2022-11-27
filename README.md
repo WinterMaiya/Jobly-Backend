@@ -9,7 +9,8 @@ This project is inspired by jobsearching applications and was built to be a sudo
 
 ## Deployed Website
 
-You can view the deployed website here: [Jobly](https://mw-jobly.surge.sh/).
+<s>You can view the deployed website here: [Jobly](https://mw-jobly.surge.sh/).</s>
+Heroku is no longer allowing free deployment so we are working on redploying the application elsewhere.
 
 The Front End code can be found here: [Jobly-Frontend](https://github.com/WinterMaiya/Jobly-Frontend)
 
